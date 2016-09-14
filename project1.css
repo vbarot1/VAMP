@@ -1,0 +1,136 @@
+body {
+
+	background-color: black;
+
+}
+.align {
+
+align = right;
+
+}
+
+p {
+
+color: white;
+
+}
+#example {
+
+	background: url(/pictures/rightarrow2.jpg);
+}
+a:visited {
+
+	color: red;
+}
+
+a:active {
+
+	color: white;
+	background-white: white;
+}
+
+a:link {
+
+	color: white;
+	 background-white: white;
+}
+
+a:hover {
+	color: blue;
+
+}
+
+img {
+    position: absolute;
+    top: 38%;
+    left: 33%;
+    margin-left: -(X/2)px;
+    margin-top: -(Y/2)px;
+    max-width: 600px;
+    width: 100%;
+}
+
+#buttons {
+  
+  float:right;
+  top: 9%;
+
+}
+
+.nav-arrow {
+  width: 30px;
+  height: 80px;
+  background: #333;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.nav-arrow:nth-of-type(2) {
+  left: auto;
+  right: 0;
+}
+
+
+p.whiteFontOnBackground, td {
+
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+span {
+
+  font-weight: bold;
+
+}
+
+table {
+
+ padding: 5x;
+ padding-left: 160px;
+
+}
+
+
+.transparentDiv{
+	background-color: rgba(244,244,244,0.5);
+}
+
+td {
+
+	color: white;
+	height: 40px;
+	font-size: x-large;
+}
+
+
+tr:nth-child(odd) {
+  background-color: cyan;
+}
+
+h1 {
+
+ font-family: Verdana;
+ foreground-color: white;
+ text-align: center;
+ color: white;
+ text-shadow: -1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+
+}
+
+h3 {
+
+	color: cyan;
+	text-align: center;
+	font-size: xx-large;
+
+}
+
+li {
+
+ color: white;
+
+}
+
